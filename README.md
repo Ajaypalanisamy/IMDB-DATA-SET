@@ -46,8 +46,3 @@ This project uses SQL to analyze a simplified IMDb dataset. It focuses on applyi
 - Better understanding of movie data
 - Real-world project experience
 
-## 🙋‍♂️ Author
-
-**Ajay P**  
-DA&DS Online – March 2025  
-🗓️ Completed: 28/05/2025
